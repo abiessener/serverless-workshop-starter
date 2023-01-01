@@ -21,11 +21,11 @@
   "homepage": "https://github.com/abiessener/serverless-workshop#readme",
   "devDependencies": {
     "archiver": "^3.1.1",
-    "webpack": "^4.41.5"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "mocha": "^7.0.0",
     "sinon": "^8.1.0",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^5.0.1"
   }
 }
